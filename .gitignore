@@ -1,0 +1,8 @@
+*gradle
+*build
+.gradle/*
+
+.metadata
+*.jar
+
+.idea/*
